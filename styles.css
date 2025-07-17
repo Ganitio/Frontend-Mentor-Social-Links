@@ -1,0 +1,110 @@
+body{
+    background-color: #111;
+}
+
+.box1{
+    width: 400px;
+    height: 850px;
+    background-color: #222;
+    margin: auto;
+    box-shadow: 0px 0px 25px #555f;
+    border-radius: 15px;
+}
+
+.PFP{
+    width: 200px;
+    height: 200px;
+    margin: 40px 100px;
+    border-radius: 50%;
+    padding: 0;
+    border: 1px solid #fff;
+    box-shadow: 0px 0px 25px #000f;
+}
+
+.ccs_icon{
+    width: 100px;
+    height: 100px;
+    margin-top: 30px;
+}
+
+.html_icon{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+    margin-left: 200px;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+    font-family:"Comic Relief";
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+}
+
+h2{
+    color: #098;
+    text-align: center;
+    margin: 10px;
+    padding: 0;
+    font-family:"Comic Relief";
+    font-weight: 100;
+    font-size: 20px;
+
+}
+
+p{
+    color: #fff;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.Instagram{
+    padding: 15px 100px;
+    background-color: #333;
+    border: none;
+    border-radius: 10px;
+    margin: 50px 0 0 70px;
+    text-decoration: none;
+    color: #fff;
+    font-family: "Comic Relief";
+}
+
+.Twitter{
+    padding: 15px 109px;
+    background-color: #333;
+    border: none;
+    border-radius: 10px;
+    margin: 50px 0 0 70px;
+    text-decoration: none;
+    color: #fff;
+    font-family: "Comic Relief";
+}
+
+.GitHub{
+    padding: 15px 111px;
+    background-color: #333;
+    border: none;
+    border-radius: 10px;
+    margin: 50px 0 0 70px;
+    text-decoration: none;
+    color: #fff;
+    font-family: "Comic Relief";
+}
+
+.Linkedin{
+    padding: 15px 107px;
+    background-color: #333;
+    border: none;
+    border-radius: 10px;
+    margin: 50px 0 0 70px;
+    text-decoration: none;
+    color: #fff;
+    font-family: "Comic Relief";
+}
+
+a{
+    box-shadow: 0 0 15px #111f;
+}
